@@ -1,0 +1,12 @@
+.sideMenuContainer{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+
+    height: 2276px;
+
+    /* Dark */
+    background: #1C2434;
+}
